@@ -4,12 +4,12 @@
 
 1. 正则表达式：
 
-   ![image-20201129173219872](https://cdn.jsdelivr.net/gh/MrWQ/vulnerability-test-img/img/20201129173219.png)
+   ![image-20201129173219872](img/20201129173219.png)
 
 2. xpath：
 
-   ![image-20201129173108075](https://cdn.jsdelivr.net/gh/MrWQ/vulnerability-test-img/img/20201129173108.png)
+   ![image-20201129173108075](img/20201129173108.png)
 
 3. 字典path：
 
-   ![image-20201129172452162](https://cdn.jsdelivr.net/gh/MrWQ/vulnerability-test-img/img/20201129172501.png)
+   ![image-20201129172452162](img/20201129172501.png)
